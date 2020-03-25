@@ -5,38 +5,38 @@
       "message": "Changed hard drive on workstation 005",
       "attention": false,
       "date": "25-03-2020",
-      "tech": "Sam Smith"
+      "tech": "Carlos Orelhas"
     },
     {
       "id": 2,
       "message": "Changed hard drive on workstation 006",
       "attention": true,
       "date": "25-03-2020",
-      "tech": "John Doe"
+      "tech": "Daniela Estalagem"
     },
     {
       "id": 1,
       "message": "Changed hard drive on workstation 009",
       "attention": false,
       "date": "25-03-2020",
-      "tech": "Sara Wilson"
+      "tech": "Joao Prates"
     }
   ],
   "techs": [
     {
       "id": 1,
-      "firstName": "Sam",
-      "lastName": "Smith"
+      "firstName": "Carlos",
+      "lastName": "Orelhas"
     },
     {
       "id": 2,
-      "firstName": "John",
-      "lastName": "Doe"
+      "firstName": "Daniela",
+      "lastName": "Estalagem"
     },
     {
       "id": 1,
-      "firstName": "Sara",
-      "lastName": "Wilson"
+      "firstName": "Joao",
+      "lastName": "Prates"
     }
   ]
 }

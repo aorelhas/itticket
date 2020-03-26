@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "25-03-2020",
-      "tech": "Carlos Orelhas"
-    },
-    {
-      "id": 2,
-      "message": "Changed hard drive on workstation 006",
+      "message": "Change hard drive in machine 001",
       "attention": true,
-      "date": "25-03-2020",
-      "tech": "Daniela Estalagem"
+      "tech": "John Doe",
+      "date": "2020-03-26T15:27:45.678Z",
+      "id": 1
     },
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 009",
+      "message": "Hard drive failed in workstation 002",
       "attention": false,
-      "date": "25-03-2020",
-      "tech": "Joao Prates"
+      "tech": "Sara Wilso",
+      "date": "2020-03-26T15:28:01.518Z",
+      "id": 2
     }
   ],
   "techs": [

@@ -1,18 +1,18 @@
 {
   "logs": [
     {
+      "id": 2,
       "message": "Hard drive failed in workstation 002",
-      "attention": false,
-      "tech": "Sara Wilso",
-      "date": "2020-03-26T15:28:01.518Z",
-      "id": 2
-    },
-    {
-      "message": "Hard Drive dead in workstation 002",
       "attention": true,
       "tech": "Sara Wilso",
-      "date": "2020-03-26T15:36:39.586Z",
-      "id": 3
+      "date": "2020-03-26T19:25:40.311Z"
+    },
+    {
+      "id": 3,
+      "message": "Fixed Hard Drive dead in workstation 002",
+      "attention": false,
+      "tech": "Sara Wilso",
+      "date": "2020-03-26T19:25:59.585Z"
     }
   ],
   "techs": [
